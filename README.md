@@ -1,7 +1,13 @@
 # sublime
 sublime text packages 
 
+#Installation 
 
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+
+[More options from](https://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3)
 
 
 [Sublime Text 3](http://www.sublimetext.com/3) FTW!
